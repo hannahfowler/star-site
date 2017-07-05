@@ -6,7 +6,7 @@
 
 body {
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    background: url('../img/bg.jpg') no-repeat center center fixed;
+    background: url('../img/tulips.JPG') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -54,7 +54,8 @@ hr {
 }
 
 .img-full {
-    min-width: 100%;
+    max-width: 100%;
+    height: auto;
 }
 
 .brand-before,
